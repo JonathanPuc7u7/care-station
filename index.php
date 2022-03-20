@@ -53,7 +53,7 @@
           background-size: cover;">
                 <span class="mask bg-gradient-primary opacity-6"></span>
                 <h4 class="mt-5 text-white font-weight-bolder position-relative">"Tablero de administracion"</h4>
-                <p class="text-white position-relative">En esta herramienta encontrara toda la infomracion recopilada
+                <p class="text-white position-relative">En esta herramienta encontrara toda la informacion recopilada
                 por los dispositvos IoT del proyecto CareStation.</p>
               </div>
             </div>
